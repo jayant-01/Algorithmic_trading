@@ -45,9 +45,19 @@ This project is a **Streamlit web application** designed to provide detailed com
 3. **Open your web browser and go to http://localhost:8501 (or the URL displayed in the terminal).**
 
 ### Features in the App
-1.**Enter Company Name:**
+1. **Enter Company Name:**
   - Input the stock ticker symbol (e.g., AAPL for Apple).
   - Click "Get Stock Details" to view the company information.
+
+2. **Set Date Range** :
+- *Choose the start and end dates for fetching historical stock data.*
+
+3. **Prediction** :
+- *Select a future date for which you want to predict the stock's high price.*
+
+- *Click "Get Stock Future Prediction" to see the results.*
+
+[Watch the demo video](https://github.com/jayant-01/Algorithmic_trading/blob/main/algo_trading_preview.mp4)
 
 
 
