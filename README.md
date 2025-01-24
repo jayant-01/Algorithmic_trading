@@ -19,30 +19,38 @@ This project is a **Streamlit web application** designed to provide detailed com
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/jayant-01/Algorithmic_trading/tree/main
 
 2. **Set Up a Virtual Environment (optional but recommended)**:
    ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate
+   ./Algorithmic_trading/Scripts/activate  # On Windows, use Algorithmic_trading\Scripts\activate
+
 3. **Install Required Dependencies:**:
    ```bash
    pip install -r requirements.txt
 
-##Usage
+## Usage
 
-###Running the Application
+### Running the Application
 
-1.**Navigate to the project directory.**
-2.**Run the Streamlit app**:
-  ```bash
-  streamlit run main.py
-3.**Open your web browser and go to http://localhost:8501 (or the URL displayed in the terminal).**
+1. **Navigate to the project directory**:
+    ```bash
+    cd repo-name
 
-###Features in the App
+
+2. **Run the Streamlit app:**:
+    ```bash
+    streamlit run main.py
+
+3. **Open your web browser and go to http://localhost:8501 (or the URL displayed in the terminal).**
+
+### Features in the App
 1.**Enter Company Name:**
-  >Input the stock ticker symbol (e.g., AAPL for Apple).
-  >Click "Get Stock Details" to view the company information.
+  - Input the stock ticker symbol (e.g., AAPL for Apple).
+  - Click "Get Stock Details" to view the company information.
+
+
+
+
 
 
